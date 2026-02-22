@@ -1,0 +1,9 @@
+{
+  "name": "telegram-bot-scaffolder",
+  "description": "Scaffold Telegram bots on Cloudflare Workers with grammY, D1, KV, R2, and OpenRouter",
+  "version": "1.0.0",
+  "author": {
+    "name": "Oguzhan Cakmak"
+  },
+  "license": "MIT"
+}
