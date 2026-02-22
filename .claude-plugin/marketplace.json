@@ -1,15 +1,20 @@
 {
+  "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
   "name": "telegram-bot-scaffolder",
+  "description": "Scaffold Telegram bots on Cloudflare Workers",
   "owner": {
-    "name": "Oguzhan Cakmak",
-    "email": ""
+    "name": "Oguzhan Cakmak"
   },
   "plugins": [
     {
       "name": "telegram-bot-scaffolder",
-      "source": ".",
       "description": "Scaffold Telegram bots on Cloudflare Workers with grammY, D1, KV, R2, and OpenRouter",
-      "version": "1.0.0"
+      "version": "1.0.0",
+      "author": {
+        "name": "Oguzhan Cakmak"
+      },
+      "source": ".",
+      "category": "development"
     }
   ]
 }
