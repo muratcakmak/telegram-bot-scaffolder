@@ -1,0 +1,15 @@
+{
+  "name": "telegram-bot-scaffolder",
+  "owner": {
+    "name": "Oguzhan Cakmak",
+    "email": ""
+  },
+  "plugins": [
+    {
+      "name": "telegram-bot-scaffolder",
+      "source": ".",
+      "description": "Scaffold Telegram bots on Cloudflare Workers with grammY, D1, KV, R2, and OpenRouter",
+      "version": "1.0.0"
+    }
+  ]
+}

@@ -14,13 +14,7 @@ A Claude Code plugin that scaffolds new Telegram bots on **Cloudflare Workers** 
 
 ```
 /plugin marketplace add muratcakmak/telegram-bot-scaffolder
-/plugin install telegram-bot-scaffolder
-```
-
-Or test locally:
-
-```bash
-claude --plugin-dir /path/to/telegram-bot-scaffolder
+/plugin install telegram-bot-scaffolder@muratcakmak-telegram-bot-scaffolder
 ```
 
 ## Usage
